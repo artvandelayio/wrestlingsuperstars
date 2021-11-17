@@ -6,8 +6,8 @@
     "SYMBOL": "ETH",
     "ID": 4
   },
-  "NFT_NAME": "Wrestling Superstars",
-  "SYMBOL": "WSS",
+  "NFT_NAME": "Wrestling Superstars Mint Pass",
+  "SYMBOL": "WSSP",
   "MAX_SUPPLY": 500,
   "WEI_COST": 4000000000000000000,
   "DISPLAY_COST": 0.04,
